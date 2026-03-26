@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: gillroy;
-    color: #fff;
 }
 html,body{
     height: 100%;
@@ -12,13 +11,8 @@ html,body{
 body{
     background-color: #111;
 }
-#box1{
-    height: 300px;
-    width: 300px;
-    background-color: crimson;
-}
-#box2{
-    height: 300px;
-    width: 300px;
-    background-color: lightseagreen;
+#string{
+    height: 200px;
+    width: 100%;
+    /* background-color: red; */
 }
